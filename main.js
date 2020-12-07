@@ -1,0 +1,1 @@
+alert('Mogę wszystko w Chrystusie, który mnie umacnia.')
